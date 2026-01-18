@@ -1,0 +1,1 @@
+-- Display employees working in projects outside their department

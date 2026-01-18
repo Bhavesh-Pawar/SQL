@@ -1,0 +1,1 @@
+-- Find employees working in projects of their own department
