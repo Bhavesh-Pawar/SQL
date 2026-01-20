@@ -1,0 +1,1 @@
+-- Find employees earning same salary

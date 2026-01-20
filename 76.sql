@@ -1,0 +1,1 @@
+-- Use LAG() to compare salary difference

@@ -1,0 +1,1 @@
+-- Use LEAD() to compare salary difference
